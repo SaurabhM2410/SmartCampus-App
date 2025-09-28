@@ -1,2 +1,2 @@
 # SmartCampus-App
-SmartCampus - AI powered college management system
+SmartCampus: An AI-powered College Management System
