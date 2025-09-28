@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Campus.com - All-in-One College Management System
 
 ## Overview
@@ -120,3 +121,7 @@ Use the interactive documentation at http://127.0.0.1:8000/docs to test all API 
 ## Project Structure
 - `backend/` - FastAPI backend with SQLite database
 - `frontend/` - React.js frontend with Tailwind CSS
+=======
+# SmartCampus-App
+SmartCampus: An AI-powered College Management System
+>>>>>>> da27dfd345efb6c8aebc4e2fa0f5e4c84870c20f
